@@ -1,0 +1,6 @@
+ C====== AERODYNAMIC CHARECTERISTICS ==============
+<  LIFT(N)   >,<  DRAG(N)    >,< MOMENT(N*m) >,<LIFT TO DRAG RATIO>
+  1674098.52242    76131.61569  -364303.17106       21.98953
+ 
+<  Wing Reference Area(m**2)   >
+      329.77441
